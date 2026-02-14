@@ -39,7 +39,7 @@ I am a **Computer Science Engineering Undergraduate** at **Silver Oak University
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjaliladani&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjali2076&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjaliladani&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
