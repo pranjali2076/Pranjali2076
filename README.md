@@ -33,13 +33,14 @@ I am a **Computer Science Engineering Undergraduate** at **Silver Oak University
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-    A full-stack interactive platform for personalized digital gifting. Features real-time updates and custom animations. | `React` `Firebase` `Vercel` |
-    
+| **Wish Protocol** | A full-stack interactive platform for personalized digital gifting. Features real-time updates and custom animations. | `React` `Firebase` `Vercel` |
+| **Devanagari Tax** | *Research Project.* Quantifying the tokenization inefficiency of LLMs for Indian languages compared to English. | `Python` `NLP` `Transformers` |
+
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjaliladani&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjaliladani&theme=radical&hide_border=true" height="180" alt="Streak Stats" />
 </div>
 
 ---
@@ -52,4 +53,3 @@ I am a **Computer Science Engineering Undergraduate** at **Silver Oak University
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
